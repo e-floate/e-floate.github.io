@@ -2,4 +2,12 @@
 title: Home
 ---
 <h1>{{"data for days" | uppercase}}</h1>
-a portfolio / blog containing my data analysis projects -- big whoop!
+a portfolio / blog containing my data analysis projects -- big whoop!!
+
+<h1>Gallery:</h1>
+
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/home' %}
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+    {% endif %}
+{% endfor %}

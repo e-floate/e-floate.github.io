@@ -22,6 +22,6 @@ A selection of graphs from a LiChess data study:
 ![White rating (normalised) by number of turns in the opening phase](/assets/images/Opening_Moves_v_Rating.png "White rating (normalised) by number of turns in the opening phase")
 
 It should be noted that the way the LiChess analysis engine determines the end of the opening and the beginning of the middle game is not precisely known, but some contributing factors seem to be:
-	- Whether either player is castled.
-	- Whether there are 10 or fewer pieces on the board.
-	- The development of pieces in general.
+- Whether either player is castled.
+- Whether there are 10 or fewer pieces on the board.
+- The development of pieces in general.

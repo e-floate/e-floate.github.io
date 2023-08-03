@@ -1,7 +1,7 @@
 ---
 
 ---
-## A selection of graphs from a LiChess data study:
+A selection of graphs from a LiChess data study:
 
 ## White Rating (Normalized) by Opening Type
 

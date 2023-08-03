@@ -11,7 +11,7 @@ A selection of graphs from a LiChess data study:
 
 ## Number of turns taken by match result
 
-![Graph 2](/assets/images/Turns_Dist_by_Result.png "graph")
+![Number of turns taken by match result](/assets/images/Turns_Dist_by_Result.png "Number of turns taken by match result")
 
 - This suggests that when a game moves past (approximately) the 75 move mark it is likely that game will end in a draw
 - It also shows that games where Black wins tend to last slightly longer than games where White wins, perhaps due to the fact that White moves first 

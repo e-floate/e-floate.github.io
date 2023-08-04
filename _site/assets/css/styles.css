@@ -18,7 +18,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  color: #3366CC;
+  font-size: 1.2em;
+  color: #348feb;
   text-decoration: none;
 }
 

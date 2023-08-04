@@ -18,7 +18,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  color: #fff;
+  color: #3366CC;
   text-decoration: none;
 }
 
@@ -27,6 +27,7 @@ a:hover {
 }
 
 nav a {
+  color: #fff;
   float: left;
   font-size: 2em;
   display: block;
@@ -35,10 +36,6 @@ nav a {
   padding: 14px 16px;
   text-decoration: none;
   border-right: 1px solid #bbb;
-}
-
-.link {
-  color: #3366CC;
 }
 
 /* Content styles */

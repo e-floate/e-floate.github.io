@@ -14,4 +14,4 @@ Just over half of all sightings occur between July and November! And a dispropor
 
 ![Graph 3](/assets/images/UFO_3.png "Graph 3")
 
-![Map](/assets/images/map-of-ufo-sightings-by-month.png "Map")
+![Map](/assets/images/home/map-of-ufo-sightings-by-month.png "Map")

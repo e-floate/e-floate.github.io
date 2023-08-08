@@ -8,5 +8,7 @@ Simply navigate to the *Blog* tab to check out some of my data studies :)
 
 ## Contact
 
-- **Email:** ![email](ethan.floate@gmail.com "email")
-- **LinkedIn:** ![linkedin](https://www.linkedin.com/in/ethan-floate-0a05551b7/ "LinkedIn")  
+- **Email:** 
+![email](ethan.floate@gmail.com "email")
+- **LinkedIn:** 
+![linkedin](https://www.linkedin.com/in/ethan-floate-0a05551b7/ "LinkedIn")  

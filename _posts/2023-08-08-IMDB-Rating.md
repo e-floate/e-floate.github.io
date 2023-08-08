@@ -11,6 +11,8 @@
 
 ![count of movies by genre AND genre by average rating](/assets/images/count-of-movies-by-genre-AND-genre-by-average-rating.png "count-of-movies-by-genre-AND-genre-by-average-rating")
 
+![num-movies-released-by-year-AND-count-of-rating](/assets/images/num-movies-released-by-year-AND-count-of-rating.png "num-movies-released-by-year-AND-count-of-rating")
+
 ## Predictive Analysis
 
 ![imdb-rise-avg-rating](/assets/images/imdb-rise-avg-rating.png "Rise in average IMDb ratings")

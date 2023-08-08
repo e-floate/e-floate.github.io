@@ -7,5 +7,6 @@ Hey! I'm Ethan Floate - a recent graduate from the University of Brighton. After
 Simply navigate to the *Blog* tab to check out some of my data studies :)
 
 ## Contact
-**Email:** ethan.floate@gmail.com
-**LinkedIn:** https://www.linkedin.com/in/ethan-floate-0a05551b7/  
+
+- **Email:** ethan.floate@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ethan-floate-0a05551b7/  

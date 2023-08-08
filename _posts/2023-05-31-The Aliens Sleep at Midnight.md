@@ -13,3 +13,5 @@ The majority of UFO sightings are between 6PM and 12AM, perhaps that’s when th
 Just over half of all sightings occur between July and November! And a disproportionately low amount of sightings take place in the festive month of December, likely the work of Saint Nick!
 
 ![Graph 3](/assets/images/UFO_3.png "Graph 3")
+
+![Map](/assets/images/map-of-ufo-sightings-by-month.png "Map")

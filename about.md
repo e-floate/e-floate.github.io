@@ -10,6 +10,6 @@ Simply navigate to the *Blog* tab to check out some of my data studies :)
 
 - **Email:** ethan.floate@gmail.com
 - **LinkedIn:** 
-![linkedin](https://www.linkedin.com/in/ethan-floate-0a05551b7/ "LinkedIn")  
+![linkedin](https://www.linkedin.com/in/ethan-floate-0a05551b7/)  
 
-![me](assets/iamges/in_the_gown.jpg "Photo of me at graduation")
+![me](assets/images/in_the_gown.jpg "Photo of me at graduation")

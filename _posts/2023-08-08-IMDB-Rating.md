@@ -15,4 +15,4 @@
 
 ![imdb-rise-avg-rating](/assets/images/imdb-rise-avg-rating.png "Rise in average IMDb ratings")
 
-![imdb-rise-avg-rating since the 80s](/assets/images/imdb_rise_avg_rating_80s.png "Rise in average IMDb ratings since 80s")
+![imdb-rise-avg-rating since the 80s](/assets/images/imdb-rise-avg-rating-80s.png "Rise in average IMDb ratings since 80s")

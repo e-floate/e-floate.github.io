@@ -28,3 +28,6 @@ It should be noted that the way the LiChess analysis engine determines the end o
 - Whether either player is castled.
 - Whether there are 10 or fewer pieces on the board.
 - The development of pieces in general.
+
+### Full Study:
+- <https://github.com/e-floate/Lichess-Study>

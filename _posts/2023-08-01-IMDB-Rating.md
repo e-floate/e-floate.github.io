@@ -3,9 +3,10 @@
 ---
 ## Tableau Dashboard
 
-![IMDB Ratings Dashboard](/assets/images/IMDB_Dash_1.png "IMDB Ratings Dashboard")
+![IMDB Ratings Dashboard](/assets/images/IMDB-Dash-1.png "IMDB Ratings Dashboard")
 
 - NB: The Dashboard excludes outlier genres (under 600 films in genre)
+- **Tableau:** <https://public.tableau.com/app/profile/ethan.floate/viz/IMDBRatingStudy/Dashboard1>
 
 ## Python Analysis
 

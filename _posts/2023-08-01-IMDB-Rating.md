@@ -26,3 +26,5 @@ This suggests that an average movie rating on IMDb isnt the middle score, 5, but
 
 ### This suggests that in 2030, the average rating on IMDb will be between 7.0 and 7.4
 ### To make an above average film in 2030, it must have a rating approximately >= 7.5
+### Full Study: 
+- <https://github.com/e-floate/IMDb-Ratings-Study>

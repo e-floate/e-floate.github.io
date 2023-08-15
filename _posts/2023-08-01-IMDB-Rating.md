@@ -2,7 +2,6 @@
 
 ---
 ## Tableau Dashboard
-
 ![IMDB Ratings Dashboard](/assets/images/IMDB-Dash-1.png "IMDB Ratings Dashboard")
 
 - NB: The Dashboard excludes outlier genres (under 600 films in genre)
